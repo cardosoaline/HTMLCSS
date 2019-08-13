@@ -1,0 +1,197 @@
+
+
+body{
+    font-family: "Crimson Text","Times new roman","Baskerville",serif;
+    background-color: #F2FFFC;
+    line-height: 1.5;
+}
+
+h1,h2{
+    font-family: "Open Sans Condensed","Arial",sans-serif;
+}
+
+main{
+    width: 80%;
+    float: left;
+    padding-bottom: 80px;
+}
+
+main h1{
+    
+    background-color:#851944;
+    color: #ffffff;
+    text-align: center;
+    padding: 24px;
+    border-bottom: 10px solid black;
+    font-size: 60px;
+    text-transform: uppercase;
+}
+
+p{
+    margin: 20px 0;
+    text-align: justify;
+  
+}
+
+blockquote{
+    background-color: #D9E5E3;
+    padding: 16px;
+    margin: 20px 40px;
+    border: 10px solid #C2CCCA;
+    width: 250px;
+    box-sizing: border-box;
+    border: 10px solid #C2CCCA;
+}
+
+aside{
+    background-color: #3C1D3D;
+    color: #F2FFFC;
+    padding: 20px;
+    text-align: center;
+    clear: right;
+    box-sizing: border-box;
+    position: relative;
+    top: 310px;
+
+}
+
+.icones-sociais li{
+    display: inline-block;
+}
+
+footer{
+
+    background-color: black;
+    color: #F2FFFC;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    box-sizing: border-box;
+    
+}
+
+nav a {
+    color: #F2FFFC;
+    text-transform: lowercase;
+}
+
+main a {
+    color: #851944;
+}
+
+aside a {
+    color: inherit;
+    font-family: "Open Sans Condensed", sans-serif;
+    text-decoration: none;
+}
+main div {
+    width: 720px;
+    margin: auto;
+    padding: 30px 0;
+}
+
+aside h1{
+    font-size: 30px;
+    margin-bottom: 25px; 
+}
+
+strong{
+    font-weight: bold;
+}
+
+em{
+    font-style: italic;
+}
+
+h2{
+    font-size: 30px;
+    clear: left;
+}
+
+article {
+    padding-bottom: 30px;
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 20px;
+}
+
+.leia-mais{
+
+    padding: 8px;
+    margin: 16px;
+    display: block;
+    font-size: 24px;
+    text-align: center;
+    background-color: #E6E7E8;
+}       
+
+
+ .icones-sociais a {
+                width: 40px;
+                height: 40px;
+                display: inline-block;
+                text-indent: -99999px;
+            }
+            
+ .github {
+                background-image: url(../imagens/github.png);
+            }
+            
+ .twitter {
+                background-image: url(../imagens/twitter.png);
+            }
+            
+ .linkedin {
+                background-image: url(../imagens/linkedin.png);
+            }
+
+
+.citeUm{
+
+     float: right;
+
+      }
+
+.citeDois{
+      float: left;
+
+ }
+
+
+ img,
+aside {
+    width: 20%;
+    float: right;
+}
+
+.clearfix{
+    clear: both;
+}
+
+img {
+    width: 15%;
+    position: absolute;
+    top: 0;
+    right: 0;
+    border-left: 10px solid black;
+    border-bottom: 10px solid black;
+}
+
+.minha-foto {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width:15%;
+}
+
+.navegacao-site {
+    width: 15%;
+    position: relative;
+    top: 310px;
+}
+
+.navegacao-site{
+    position:absolute;
+    top: 310px;
+    right: 0;
+}
